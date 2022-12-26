@@ -1,0 +1,24 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Serial Compositional Runtime Enforcement of Safety
+  Timed Properties
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Saumya
+    family-names: Shankar
+    email: ss117@iitbbs.ac.in
+    affiliation: >-
+      Indian Institute of Technology Bhubaneswar,
+      India
+  - given-names: Srinivas
+    family-names: Pinisetty
+    email: spinisetty@iitbbs.ac.in
+    affiliation: >-
+      Indian Institute of Technology Bhubaneswar,
+      India
